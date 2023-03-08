@@ -1,4 +1,4 @@
-name: Delete dev documentation
+name: "🐛 Delete dev documentation"
 
 on:
   pull_request:
