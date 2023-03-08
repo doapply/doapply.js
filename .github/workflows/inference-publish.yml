@@ -1,4 +1,4 @@
-name: Inference - Version and Release
+name: "🦺 Inference - Version and Release"
 
 on:
   workflow_dispatch:
