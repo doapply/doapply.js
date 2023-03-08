@@ -1,4 +1,4 @@
-name: Hub - Version and Release
+name: "✨ Hub - Version and Release"
 
 on:
   workflow_dispatch:
