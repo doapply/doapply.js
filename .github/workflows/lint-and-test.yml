@@ -1,4 +1,4 @@
-name: Lint and test
+name: "💚 Lint and test"
 on:
   pull_request:
   push:
